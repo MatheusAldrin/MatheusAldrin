@@ -14,5 +14,6 @@ Começando na área de programação, me matriculei recentemente na faculdade de
 
 ## ⭐ GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusaldrin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaldrin&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/matheusaldrin" title="Perfil do Aldrin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaldrin&theme=dracula&show_icons=true" />
+</a>
