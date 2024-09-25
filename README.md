@@ -16,4 +16,4 @@ Começando na área de programação, me matriculei recentemente na faculdade de
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusaldrin_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusaldrin&theme=radical_icons=true)
