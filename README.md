@@ -8,7 +8,7 @@ Começando na área de programação, me matriculei recentemente na faculdade de
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,figma)](https://skillicons.dev)
 
 ---
 
