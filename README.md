@@ -10,10 +10,3 @@ Começando na área de programação, me matriculei recentemente na faculdade de
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,figma,ps,ai)](https://skillicons.dev)
 
----
-
-## ⭐ GitHub Stats
-
-<a href="https://github.com/matheusaldrin" title="Perfil do Aldrin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusaldrin&theme=dracula&show_icons=true" />
-</a>
